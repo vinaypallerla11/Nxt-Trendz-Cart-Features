@@ -102,7 +102,7 @@ class LoginForm extends Component {
     return (
       <div className="login-form-container">
         <img
-          src="https://assets.ccbp.in/frontend/react-js/nxt-trendz-logo-img.png"
+          src="https://res.cloudinary.com/ddehbjyiy/image/upload/v1704763899/VTrendz_gfuzbu.webp"
           className="login-website-logo-mobile-img"
           alt="website logo"
         />
